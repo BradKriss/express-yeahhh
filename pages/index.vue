@@ -1,12 +1,12 @@
 <template>
   <section class="container">
     <div>
-      <img src="https://res.cloudinary.com/bradkriss/image/upload/v1554682635/lil-john.webp" />>
+      <img src="https://res.cloudinary.com/bradkriss/image/upload/v1554682635/lil-john.webp" />
       <h1 class="title">
         yeahhh
       </h1>
       <h2 class="subtitle">
-        feat nuxt
+        feat nuxt & express
       </h2>
     </div>
     </div>
