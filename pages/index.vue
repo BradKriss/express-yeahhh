@@ -9,7 +9,6 @@
         feat nuxt & express
       </h2>
     </div>
-    </div>
   </section>
 </template>
 
